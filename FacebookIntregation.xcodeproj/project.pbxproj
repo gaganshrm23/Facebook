@@ -299,6 +299,7 @@
 				CE7786841E6C7FED00D50278 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
